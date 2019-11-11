@@ -1,4 +1,1 @@
-Hello Git and GitHubgit init!
-
-Second edit
-
+Here's the finished homework for devops courses
